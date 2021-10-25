@@ -120,7 +120,7 @@ void CPeerNodeDlg::OnBnClickedButtonClear()
 {
 	while (m_listLog.GetCount())
 	{
-		m_listLog.Delering(0);
+		m_listLog.DeleteString(0);
 	}
 }
 
