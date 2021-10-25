@@ -1,0 +1,13 @@
+.vs/
+bin/
+.bin/
+ipch/
+obj/
+*.obj
+*.aps
+*.db
+*.opendb
+*.ilk
+*.pdb
+*.iobj
+*.ipdb
